@@ -67,6 +67,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ALHriday/ALHriday/output/snake.svg" alt="Snake animation" />
-
-###
